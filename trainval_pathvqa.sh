@@ -1,0 +1,12 @@
+python3 src/trainval.py \
+        --dataset 'pathvqa' \
+        --anno_path './data/Annotations/PathVQA' \
+        --data_path './data/PathVQA' \
+        --memo_path './data/Annotations/memory/PEIR+ROCO+VQA-RAD+SLAKE_memo_list.json' \
+        --lr 5e-4 \
+        --epochs 35 \
+        --compressed_size 32 \
+        --top_k 5 \
+        --batch_size 64 \
+        --method 'memo_fg_all_emb32' \
+        --visible

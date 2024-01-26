@@ -1,4 +1,0 @@
-train: epoch0, lr = 0.00016666666666666666, iter0: loss = 8.72431468963623, acc = 0.0
-train: epoch0, lr = 0.0003333333333333333, iter1: loss = 6.9319353103637695, acc = 0.125
-train: epoch0, lr = 0.0005, iter2: loss = 5.054171562194824, acc = 0.25
-train: epoch0, lr = 0.0005, iter3: loss = 5.92155647277832, acc = 0.171875

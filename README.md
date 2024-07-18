@@ -1,10 +1,10 @@
 <div align="center">
   
-# Re-rank Multi-Source Knowledge with Fine-Grained Relevance for Retrieval Augmented MedVQA
+# Fine-Grained Knowledge Fusion for Retrieval-Augmented Medical Visual Question
 </div>
 
 ## 💡Overview
-Fine-Grained Re-Ranking (FGRR) is an online retrieval-augmented framework for Medical Visual Question Answering, utilizing fine-grained encoding of multi-source knowledge and computing re-rank relevance scores between queries and knowledge. These scores serve as supervised priors, guiding the fusion of queries and knowledge and reducing interference from redundant information in answering questions.
+Fine-Grained Re-Weighting (FGRW) is an online retrieval-augmented framework for Medical Visual Question Answering, utilizing fine-grained encoding of multi-source knowledge and computing re-calculate relevance scores between queries and knowledge. These scores serve as supervised priors, guiding the fusion of queries and knowledge and reducing interference from redundant information in answering questions.
 ![overview](pic/overview.png)
 
 ## 📔PEIR Digital Library
